@@ -1,5 +1,10 @@
 export default [
   {
+    title: "BMW",
+    github: "https://github.com/Abdullohyusupovweb/9.1.vazifa",
+    vercel: "https://9-1-vazifa.vercel.app/",
+  },
+  {
     title: "soatlar boyicha sayt",
     github: "https://github.com/Abdullohyusupovweb/9-dars.vazifa",
     vercel: "https://9-dars-vazifa-omega.vercel.app/",
