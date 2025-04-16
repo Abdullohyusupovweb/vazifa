@@ -1,4 +1,9 @@
 export default [
+   {
+    title: "10-dars",
+    github: "https://github.com/Abdullohyusupovweb/10-dars",
+    vercel: "https://10-dars-drab.vercel.app/",
+  },
   {
     title: "BMW",
     github: "https://github.com/Abdullohyusupovweb/9.1.vazifa",
