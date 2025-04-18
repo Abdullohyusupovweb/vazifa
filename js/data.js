@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Make remonte work",
+    github: "https://github.com/Abdullohyusupovweb/8-dars",
+    vercel: "https://8-dars-ruddy-xi.vercel.app/",
+  },
+  {
     title: "Contact us",
     github: "https://github.com/Abdullohyusupovweb/11.1-dars",
     vercel: "https://11-1-dars-eta.vercel.app/",
