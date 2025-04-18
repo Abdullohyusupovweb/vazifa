@@ -1,4 +1,9 @@
 export default [
+  {
+    title: "Contact us",
+    github: "https://github.com/Abdullohyusupovweb/11.1-dars",
+    vercel: "https://11-1-dars-eta.vercel.app/",
+  },
    {
     title: "10-dars",
     github: "https://github.com/Abdullohyusupovweb/10-dars",
