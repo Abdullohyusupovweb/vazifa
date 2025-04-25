@@ -1,5 +1,10 @@
 export default [
   {
+    title: "myteam-multi-page",
+    github: "https://github.com/Abdullohyusupovweb/3.2-dars",
+    vercel: "https://3-2-dars-mu.vercel.app/index.html",
+  },
+  {
     title: "Make remonte work",
     github: "https://github.com/Abdullohyusupovweb/8-dars",
     vercel: "https://8-dars-ruddy-xi.vercel.app/",
