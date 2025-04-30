@@ -1,5 +1,10 @@
 export default [
   {
+    title: "single-page-design-portfolio",
+    github: "https://github.com/Abdullohyusupovweb/4-dars",
+    vercel: "https://4-dars-sand.vercel.app/",
+  },
+  {
     title: "myteam-multi-page",
     github: "https://github.com/Abdullohyusupovweb/3.2-dars",
     vercel: "https://3-2-dars-mu.vercel.app/index.html",
