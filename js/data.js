@@ -1,22 +1,22 @@
 export default [
   {
-    title: "single-page-design-portfolio",
+    title: "desigin-solution"
     github: "https://github.com/Abdullohyusupovweb/desigin-solution",
     vercel: "https://newgrid-main-i3ri.vercel.app/",
   },
   {
-    title: "single-page-design-portfolio",
+    title: "tech-book-main",
     github: "https://github.com/Abdullohyusupovweb/tech-book-main",
     vercel: "https://tech-book-main.vercel.app/",
   },
   {
-    title: "single-page-design-portfolio",
+    title: "newgrid-main",
     github: "https://github.com/Abdullohyusupovweb/newgrid-main",
     vercel: "https://newgrid-main.vercel.app/",
   },
 
   {
-    title: "single-page-design-portfolio",
+    title: "namanganliklar",
     github: "https://github.com/Abdullohyusupovweb/namanganliklar-website-main/tree/main",
     vercel: "https://namanganliklar-website-main-zqr3.vercel.app/",
   },
