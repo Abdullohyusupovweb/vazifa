@@ -1,6 +1,6 @@
 export default [
   {
-    title: "desigin-solution"
+    title: "desigin-solution",
     github: "https://github.com/Abdullohyusupovweb/desigin-solution",
     vercel: "https://newgrid-main-i3ri.vercel.app/",
   },
