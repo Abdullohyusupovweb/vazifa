@@ -1,5 +1,15 @@
 export default [
   {
+    title: "news-homepage",
+    github: "https://github.com/Abdullohyusupovweb/figma2",
+    vercel: "https://figma2-nu.vercel.app/",
+  },
+  {
+    title: "product-preview-card-component",
+    github: "https://github.com/Abdullohyusupovweb/figma1",
+    vercel: "https://figma1-puce.vercel.app/",
+  },
+  {
     title: "desigin-solution",
     github: "https://github.com/Abdullohyusupovweb/desigin-solution",
     vercel: "https://newgrid-main-i3ri.vercel.app/",
