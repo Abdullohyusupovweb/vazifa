@@ -1,6 +1,6 @@
 export default [
   {
-    title: "news-homepage",
+    title: "intro-component-with-sign-up-form",
     github: "https://github.com/Abdullohyusupovweb/intro-component-with-sign-up-form",
     vercel: "https://intro-component-with-sign-up-form-three-chi.vercel.app/",
   },
