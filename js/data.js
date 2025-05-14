@@ -5,7 +5,7 @@ export default [
     vercel: "https://sunnyside-agency-landing-page-akhror-web.vercel.app/",
   },
   {
-    title: "intro-component-with-sign-up-form",
+    title: "sunnyside-agency-landing-page-akhror-web",
     github: "https://github.com/Abdullohyusupovweb/sunnyside-agency-landing-page-akhror-web",
     vercel: "https://insure-landing-page-zpar.vercel.app/",
   },
