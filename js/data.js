@@ -1,8 +1,19 @@
 export default [
   {
+    title: "insure-landing-page",
+    github: "https://github.com/Abdullohyusupovweb/insure-landing-page",
+    vercel: "https://sunnyside-agency-landing-page-akhror-web.vercel.app/",
+  },
+  {
+    title: "intro-component-with-sign-up-form",
+    github: "https://github.com/Abdullohyusupovweb/sunnyside-agency-landing-page-akhror-web",
+    vercel: "https://insure-landing-page-zpar.vercel.app/",
+  },
+
+{
     title: "intro-component-with-sign-up-form",
     github: "https://github.com/Abdullohyusupovweb/intro-component-with-sign-up-form",
-    vercel: "https://intro-component-with-sign-up-form-three-chi.vercel.app/",
+    vercel: "  https://intro-component-with-sign-up-form-three-chi.vercel.app/",
   },
   {
     title: "news-homepage",
